@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Disclaimer: I am very new to Github yet ready to *explore*!
 
 - 🔭 I’m currently working on finding my passion and searching a job.
 - 🌱 I’m currently learning R, Economics, Finance, SQL.
